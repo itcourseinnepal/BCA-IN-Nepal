@@ -27,7 +27,7 @@ Scholorship : Gov School + College [Website]
 | ------------- | -------------  | -------------  | -------------  | -------------  |
 | Janamaitri Multiple Campus   | Kuleshwar, Kathmandu | 8 | 350000 | Entrance Exam, D+ |
 | Bhairahawa Multiple Campus  | Siddarthangar, Province -5 | 8 |  Ar. 350000  | Entrance Exam, D+ |
-| Birendra Multiple Campus | Bharatpur, Chitwan | 8 | 350,000 | Entrance, Math, D+ Grade  |
+| Birendra Multiple Campus | Bharatpur, Chitwan | 8 | 350,000 | Entrance, D+ Grade  |
 | Dav College [Private] | Kathmandu| 8 |  7,40,000 |  Entrance, D+ Grade |
 | Aadim National College [Private] | Kathmandu| 8 |  6,25,000 + Exam |  Entrance, D+ Grade |
 
