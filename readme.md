@@ -11,7 +11,7 @@ BCA is an academic course related to Application Development [Programming].
 - You can choose a subject in the 7 / 8 semester
 
 ### What It Focus On
-- Introduction to Programming, Database, Application Development, Networking, Web Development
+- Introduction to Programming, Database, Application Development, Networking, Web Development, Business, Ethics etc.
 
 ### Eligibility
 - Tribhuban University {+2 Any, D+, Entrance}
