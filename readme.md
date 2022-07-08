@@ -47,6 +47,14 @@ BCA is an academic course related to Application Development [Programming].
 | CITE College	 |  Subidhanagar, Tinkune, Kathmandu | 8 |  Rs. 699,000 [Day], 7,99,000 [Morning]|+2 Any, 45%, Entrance   |
 | Aryan School of Engineering and Management |Mid Baneshwor, Kathmandu | 8 | N/A |  +2 Any, 45%, Entrance  |
 
+### Syllebus
+- [Tribhuban University](https://www.tufohss.edu.np/wp-content/uploads/Syllabus/Syllabus-BCA.pdf)
+- [Pokhara University](https://lagrandee.edu.np/programs/bca/)
+- [Purbanchal University](https://kcc.edu.np/academics/bachelor-of-computer-application-bca/)
+
+
+
+
 ### Tips to Find Good College
 - Visit College
 - Ask from senior
