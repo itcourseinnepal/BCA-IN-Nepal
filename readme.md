@@ -41,11 +41,11 @@ BCA is an academic course related to Application Development [Programming].
 | Citizen College	 | Satdobaro, Lalitpur | 8 |  N/A  | Entrance , Math, C Grade  |
 
 ### Purbanchal University
-| College Name  |   Year | Semester | Fees | Eligibility | 
+| College Name  |   Address | Semester | Fees | Eligibility | 
 | ------------- | -------------  | -------------  | -------------  | -------------  |
-| Kantipur City College  | 4 | 8 | 6 - 7 Lakhs |  |
-| CITE College	 |  4 | 8 |  Rs. 699,000 [Day], 7,99,000 [Morning]|   |
-| Aryan School of Engineering and Management | 4 | 8 |  |  +2 Any, 45%, Entrance  |
+| Kantipur City College  | Putalisadak, Kathmandu | 8 | 6 - 7 Lakhs | +2 Any, 45%, Entrance |
+| CITE College	 |  Subidhanagar, Tinkune, Kathmandu | 8 |  Rs. 699,000 [Day], 7,99,000 [Morning]|+2 Any, 45%, Entrance   |
+| Aryan School of Engineering and Management | 4 | 8 | N/A |  +2 Any, 45%, Entrance  |
 
 ### Tips to Find Good College
 - Visit College
