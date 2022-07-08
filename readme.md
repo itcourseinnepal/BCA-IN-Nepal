@@ -8,21 +8,18 @@ BCA is an academic course related to Information technology. Main Focus:
 
 ### Course Duration
 - 4 Years / 8 Semester
-- You can choose subject in 7 / 8 semester
+- You can choose a subject in the 7 / 8 semester
 
 ### What It Focus On
-- Introduction to Programming, Database, Application development, Networking, Web Development
+- Introduction to Programming, Database, Application Development, Networking, Web Development
 
 ### Eligibility
 - Purbanchal University {+2 Any, 45%, Entrance}
 - Tribhuban University {+2 Any, 45%, Entrance}
 - Pokhara University {+2 Math, C Grade, Entrance}
 
-Advantage
-- Business Knowledge
-
-
-Tip: Discount / Schorship
+### Advantage
+- Business Knowledge / Accounting Knowledge
 
 ### Tribhuban University
 Scholorship : Gov School + College [Website] 
@@ -30,7 +27,7 @@ Scholorship : Gov School + College [Website]
 | ------------- | -------------  | -------------  | -------------  | -------------  |
 | Janamaitri Multiple Campus   | Kuleshwar, Kathmandu | 8 | 350000 | Entrance Exam, D+ |
 | Bhairahawa Multiple Campus  | Siddarthangar, Province -5 | 8 |  Ar. 350000  | Entrance Exam, D+ |
-| Birendra Multiple Campus | Bharatpur, Chitwan | 8 | 350,000 | Entrance , Math, D+ Grade  |
+| Birendra Multiple Campus | Bharatpur, Chitwan | 8 | 350,000 | Entrance, Math, D+ Grade  |
 | Dav College [Private] | Kathmandu| 8 |  7,40,000 |  Entrance, D+ Grade |
 | Aadim National College [Private] | Kathmandu| 8 |  6,25,000 + Exam |  Entrance, D+ Grade |
 
@@ -42,13 +39,13 @@ Entracce: 11, 12
 
 | College Name  |   Address | Semester | Fees | Eligibility | 
 | ------------- | -------------  | -------------  | -------------  | -------------  |
-| LA Grande  College  | Simalchour – 8, Pokhara | 8 | 675000 may incre | Entrance , Math, C Grade |
-| Crimsom College of Technology  | Devinagar, Rupandehi | 8 |  455000 + University Fee  | Entrance , Math, C Grade  |
-| Oxford College of Engineering and Mangement	 | Gaidakot, Nawalparasi | 8 | 655,000 | Entrance , Math, C Grade   |
+| LA Grande  College  | Simalchour – 8, Pokhara | 8 | 675000 may increase| Entrance, Math, C Grade |
+| Crimsom College of Technology  | Devinagar, Rupandehi | 8 |  455000 + University Fee  | Entrance, Math, C Grade  |
+| Oxford College of Engineering and Management	 | Gaidakot, Nawalparasi | 8 | 655,000 | Entrance, Math, C Grade   |
 | Dhangadi Engineering College | Dhangadi, Kailali | 8 |  N/A |  Entrance , Math, C Grade  |
 | Rapti Engineering College	 | Sital Nagar, Dang | 8 | FEE | Entrance , Math, C Grade  |
-| School of Environmental Science and Management | Mid Baneshwor, Kathmandu | 8 | FEE | Entrance , Math, C Grade   |
-| Nepal College of Information Technology | Balkumari, Lalitpur | 8 | FEE | Entrance , Math, C Grade  |
+| School of Environmental Science and Management | Mid Baneshwor, Kathmandu | 8 | FEE | Entrance, Math, C Grade   |
+| Nepal College of Information Technology | Balkumari, Lalitpur | 8 | FEE | Entrance, Math, C Grade  |
 | Citizen College	 | Satdobaro, Lalitpur | 8 | FEE | Entrance , Math, C Grade  |
 
 ### Purbanchal University
@@ -100,12 +97,6 @@ Entracce: 11, 12
 - Depends upon skill
 - Starting From 16,000 to 1,00,000 or even + 
 
-### Best Part of BIT
-- Easy and starts from very basic
-- More practical
-- High growth rate
-
-
 ### Final Year Project
 - Real-world IT project
 
@@ -113,8 +104,8 @@ Entracce: 11, 12
 - Don't only depend upon a college education
 - Participate in events
 - Improve your skill
-- Learn whats in market
+- Learn what in market
 - Ask questions [Master Kata Bata Garna Milxa]
 
 ### What After BCA [Study]
-MCA, MBA, MSCS and MIT, and other master
+MCA, MBA, MSCS and MIT, and other masters course
