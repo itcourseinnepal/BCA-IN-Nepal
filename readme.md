@@ -2,8 +2,8 @@
 BCA is an academic course related to Information technology. 
 
 # Universities
-- Tribhuban University 
-- Pokhara University
+- Tribhuban University [100+ Colleges]
+- Pokhara University 
 - Purbanchal University
 
 ### Course Duration
@@ -15,7 +15,7 @@ BCA is an academic course related to Information technology.
 
 ### Eligibility
 - Purbanchal University {+2 Any, 45%, Entrance}
-- Tribhuban University {+2 Any, 45%, Entrance}
+- Tribhuban University {+2 Any, D+, Entrance}
 - Pokhara University {+2 Math, C Grade, Entrance}
 
 ### Advantage
@@ -92,6 +92,7 @@ Entracce: 11, 12
 29. Data Scientist 
 30. Freelancer
 31. Blockchain Developer
+32. Loksewa
 
 ### Salary
 - Depends upon skill
@@ -101,6 +102,7 @@ Entracce: 11, 12
 - Real-world IT project
 
 ### Tips
+- Study If you are only intrested in programming/ software development.
 - Don't only depend upon a college education
 - Participate in events
 - Improve your skill
