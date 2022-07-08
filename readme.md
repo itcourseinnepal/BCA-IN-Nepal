@@ -45,7 +45,7 @@ BCA is an academic course related to Application Development [Programming].
 | ------------- | -------------  | -------------  | -------------  | -------------  |
 | Kantipur City College  | Putalisadak, Kathmandu | 8 | 6 - 7 Lakhs | +2 Any, 45%, Entrance |
 | CITE College	 |  Subidhanagar, Tinkune, Kathmandu | 8 |  Rs. 699,000 [Day], 7,99,000 [Morning]|+2 Any, 45%, Entrance   |
-| Aryan School of Engineering and Management | 4 | 8 | N/A |  +2 Any, 45%, Entrance  |
+| Aryan School of Engineering and Management |Mid Baneshwor, Kathmandu | 8 | N/A |  +2 Any, 45%, Entrance  |
 
 ### Tips to Find Good College
 - Visit College
