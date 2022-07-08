@@ -2,9 +2,9 @@
 BCA is an academic course related to Information technology. Main Focus:  
 
 # Universities
-- Purbanchal University
 - Tribhuban University 
 - Pokhara University
+- Purbanchal University
 
 ### Course Duration
 - 4 Years / 8 Semester
@@ -14,39 +14,25 @@ BCA is an academic course related to Information technology. Main Focus:
 - Introduction to Programming, Database, Application development, Networking, Web Development
 
 ### Eligibility
-- Purbanchal University { 45% }
-- Tribhuban University {+2 Any, Entrance}
+- Purbanchal University {+2 Any, 45%, Entrance}
+- Tribhuban University {+2 Any, 45%, Entrance}
 - Pokhara University {+2 Math, C Grade, Entrance}
 
-
 Advantage
-- Business
+- Business Knowledge
 
-### Purbanchal University
-
-| College Name  |   Year | Semester | Fees | Eligibility | 
-| ------------- | -------------  | -------------  | -------------  | -------------  |
-| Kantipur City College  | 4 | 8 | 6 - 7 Lakhs |  |
-| CITE College	 |  4 | 8 |  Rs. 699,000 [Day], 7,99,000 [Morning]|   |
 
 Tip: Discount / Schorship
 
-
 ### Tribhuban University
 Scholorship : Gov School + College [Website] 
-Entracce: 11, 12
-
 | College Name  |   Address | Semester | Fees | Eligibility | 
 | ------------- | -------------  | -------------  | -------------  | -------------  |
 | Janamaitri Multiple Campus   | Kuleshwar, Kathmandu | 8 | 350000 | Entrance Exam, D+ |
 | Bhairahawa Multiple Campus  | Siddarthangar, Province -5 | 8 |  Ar. 350000  | Entrance Exam, D+ |
 | Birendra Multiple Campus | Bharatpur, Chitwan | 8 | 350,000 | Entrance , Math, D+ Grade  |
-| Dav College [Private] | Kathmandu| 8 |  7,40,000 |  Entrance , D+ Grade |
-| Rapti Engineering College	 | Sital Nagar, Dang | 8 | FEE | Entrance , Math, C Grade  |
-| School of Environmental Science and Management | Mid Baneshwor, Kathmandu | 8 | FEE | Entrance , Math, C Grade   |
-| Nepal College of Information Technology | Balkumari, Lalitpur | 8 | FEE | Entrance , Math, C Grade  |
-| Citizen College	 | Satdobaro, Lalitpur | 8 | FEE | Entrance , Math, C Grade  |
-
+| Dav College [Private] | Kathmandu| 8 |  7,40,000 |  Entrance, D+ Grade |
+| Aadim National College [Private] | Kathmandu| 8 |  6,25,000 + Exam |  Entrance, D+ Grade |
 
 
 ### Pokhara University
@@ -65,6 +51,12 @@ Entracce: 11, 12
 | Nepal College of Information Technology | Balkumari, Lalitpur | 8 | FEE | Entrance , Math, C Grade  |
 | Citizen College	 | Satdobaro, Lalitpur | 8 | FEE | Entrance , Math, C Grade  |
 
+### Purbanchal University
+| College Name  |   Year | Semester | Fees | Eligibility | 
+| ------------- | -------------  | -------------  | -------------  | -------------  |
+| Kantipur City College  | 4 | 8 | 6 - 7 Lakhs |  |
+| CITE College	 |  4 | 8 |  Rs. 699,000 [Day], 7,99,000 [Morning]|   |
+| Aryan School of Engineering and Management | 4 | 8 |  Rs. 7,50,000 - 8,50,000 📞2022-7-1[May Increase] |  +2 Math Sub, C or+ grade in each subject, Entrance Exam  |
 
 ### Tips to Find Good College
 - Visit College
