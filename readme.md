@@ -14,9 +14,9 @@ BCA is an academic course related to Information technology.
 - Introduction to Programming, Database, Application Development, Networking, Web Development
 
 ### Eligibility
-- Purbanchal University {+2 Any, 45%, Entrance}
 - Tribhuban University {+2 Any, D+, Entrance}
 - Pokhara University {+2 Math, C Grade, Entrance}
+- Purbanchal University {+2 Any, 45%, Entrance}
 
 ### Advantage
 - Business Knowledge / Accounting Knowledge
