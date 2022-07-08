@@ -43,10 +43,10 @@ Entracce: 11, 12
 | Crimsom College of Technology  | Devinagar, Rupandehi | 8 |  455000 + University Fee  | Entrance, Math, C Grade  |
 | Oxford College of Engineering and Management	 | Gaidakot, Nawalparasi | 8 | 655,000 | Entrance, Math, C Grade   |
 | Dhangadi Engineering College | Dhangadi, Kailali | 8 |  N/A |  Entrance , Math, C Grade  |
-| Rapti Engineering College	 | Sital Nagar, Dang | 8 | FEE | Entrance , Math, C Grade  |
-| School of Environmental Science and Management | Mid Baneshwor, Kathmandu | 8 | FEE | Entrance, Math, C Grade   |
-| Nepal College of Information Technology | Balkumari, Lalitpur | 8 | FEE | Entrance, Math, C Grade  |
-| Citizen College	 | Satdobaro, Lalitpur | 8 | FEE | Entrance , Math, C Grade  |
+| Rapti Engineering College	 | Sital Nagar, Dang | 8 |  N/A  | Entrance , Math, C Grade  |
+| School of Environmental Science and Management | Mid Baneshwor, Kathmandu | 8 |  N/A  | Entrance, Math, C Grade   |
+| Nepal College of Information Technology | Balkumari, Lalitpur | 8 |  N/A  | Entrance, Math, C Grade  |
+| Citizen College	 | Satdobaro, Lalitpur | 8 |  N/A  | Entrance , Math, C Grade  |
 
 ### Purbanchal University
 | College Name  |   Year | Semester | Fees | Eligibility | 
