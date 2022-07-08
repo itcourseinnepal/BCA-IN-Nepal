@@ -22,7 +22,6 @@ BCA is an academic course related to Information technology.
 - Business Knowledge / Accounting Knowledge
 
 ### Tribhuban University
-Scholorship : Gov School + College [Website] 
 | College Name  |   Address | Semester | Fees | Eligibility | 
 | ------------- | -------------  | -------------  | -------------  | -------------  |
 | Janamaitri Multiple Campus   | Kuleshwar, Kathmandu | 8 | 350000 | Entrance Exam, D+ |
@@ -33,10 +32,6 @@ Scholorship : Gov School + College [Website]
 
 
 ### Pokhara University
-Scholorship : Gov School + College [Website]
-Discount : For Entrance Exam Topper
-Entracce: 11, 12
-
 | College Name  |   Address | Semester | Fees | Eligibility | 
 | ------------- | -------------  | -------------  | -------------  | -------------  |
 | LA Grande  College  | Simalchour – 8, Pokhara | 8 | 675000 may increase| Entrance, Math, C Grade |
@@ -53,7 +48,7 @@ Entracce: 11, 12
 | ------------- | -------------  | -------------  | -------------  | -------------  |
 | Kantipur City College  | 4 | 8 | 6 - 7 Lakhs |  |
 | CITE College	 |  4 | 8 |  Rs. 699,000 [Day], 7,99,000 [Morning]|   |
-| Aryan School of Engineering and Management | 4 | 8 |  Rs. 7,50,000 - 8,50,000 📞2022-7-1[May Increase] |  +2 Math Sub, C or+ grade in each subject, Entrance Exam  |
+| Aryan School of Engineering and Management | 4 | 8 |  |  +2 Any, 45%, Entrance  |
 
 ### Tips to Find Good College
 - Visit College
@@ -104,6 +99,7 @@ Entracce: 11, 12
 ### Tips
 - Study If you are only intrested in programming/ software development.
 - Don't only depend upon a college education
+- Discounts or Scholarships
 - Participate in events
 - Improve your skill
 - Learn what in market
