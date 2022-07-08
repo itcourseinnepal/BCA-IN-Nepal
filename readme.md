@@ -1,5 +1,5 @@
 # BCA [Bachelor Of Computer Application]
-BCA is an academic course related to Information technology. Main Focus:  
+BCA is an academic course related to Information technology. 
 
 # Universities
 - Tribhuban University 
