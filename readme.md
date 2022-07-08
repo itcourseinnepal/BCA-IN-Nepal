@@ -1,5 +1,5 @@
 # BCA [Bachelor Of Computer Application]
-BCA is an academic course related to Information technology. 
+BCA is an academic course related to Application Development [Programming].
 
 # Universities
 - Tribhuban University [100+ Colleges]
@@ -17,9 +17,6 @@ BCA is an academic course related to Information technology.
 - Tribhuban University {+2 Any, D+, Entrance}
 - Pokhara University {+2 Math, C Grade, Entrance}
 - Purbanchal University {+2 Any, 45%, Entrance}
-
-### Advantage
-- Business Knowledge / Accounting Knowledge
 
 ### Tribhuban University
 | College Name  |   Address | Semester | Fees | Eligibility | 
